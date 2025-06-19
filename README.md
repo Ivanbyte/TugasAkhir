@@ -29,9 +29,6 @@ Setup environment:
     - Dashboard dapat dibuat dengan Tableu,Looker Studio maupun Metabase. Disini dashboard yang dibuat dengan metabase (perlu diperhatikan untuk menginstal Docker terlebih dahulu)
     - Jalankan perintah [docker pull metabase/metabase:v0.46.4 di terminal] atau dapat langsung diinstal melalui docker [images > tambahkan > metabase]
     - Untuk menjalankan container Metabase [docker run -p 3000:3000 --name metabase metabase/metabase] atau melalui docker [images > klik run > isi nama container dan jangan lupa isi port dengan 3000]
-    - Login metabase dengan
-        username : ivanyurdean50@gmail.com
-        password : Athene50
 
 ## Business Dashboard
 Dashboard yang dibuat dapat mempermudah institusi pendidikan memantau faktor yang menyebabkan terjadinya Dropout yang tinggi secara visualisasi yang mudah untuk dipahami.
